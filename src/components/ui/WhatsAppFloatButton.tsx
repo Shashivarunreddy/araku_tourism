@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export function WhatsAppFloatButton() {
   return (
     <a

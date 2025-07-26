@@ -24,24 +24,24 @@ const accordionData: AccordionItem[] = [
       'The best time to visit Araku Valley is from October to March when the weather is pleasant, the valleys are lush, and the coffee plantations are in full bloom.',
   },
   {
-    question: 'Are there any direct trains or buses to Araku?',
+    question: 'How can I reach Araku??',
     answer:
-      'Yes, Araku is connected by train and road. The Araku Express offers a scenic train route from Visakhapatnam, and several APSRTC buses also operate regularly.',
+      'You can reach Araku by train or bus. The Araku Express from Visakhapatnam offers a scenic train journey, and APSRTC operates regular buses. Pickup and drop services from Visakhapatnam can also be arranged for your convenience.',
   },
   {
-    question: 'What are the must-visit attractions in Araku?',
-    answer:
-      'Top attractions include Borra Caves, Katiki Waterfalls, Ananthagiri Hills, Tribal Museum, and the Araku Coffee Plantations.',
+   question: 'Do you offer custom tour packages?',
+   answer: 'Yes, we offer customizable tour packages tailored to your preferences. You can choose the number of people, duration of the trip, places to visit, and type of stays. We handle transport, sightseeing, and local experiences to match your budget and interests.',
+
   },
   {
-    question: 'Do you offer custom tour packages?',
-    answer:
-      'Yes, we offer customizable tour packages that include transport, stays, sightseeing, and local experiences based on your preferences and budget.',
+     question: 'Is accommodation included in the tour packages?',
+     answer: 'Accommodation is not included by default, but it can be arranged on request based on your preferences and budget. We offer options ranging from budget stays to premium resorts.',
+
   },
   {
-    question: 'Is accommodation included in the tour packages?',
-    answer:
-      'Yes, our packages can include accommodation ranging from budget-friendly stays to premium resorts, depending on the selected package.',
+     question: 'Are meals included in the tour packages?',
+     answer: 'Meals are not included in the tour packages, but we can take you to some of the best local spots to enjoy delicious and authentic meals during your trip.',
+
   },
 ];
 
